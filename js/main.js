@@ -109,8 +109,8 @@ function taoBang(mangNhanVien = danhSachNhanVien.mangNhanVien) {
 }
 
 //Thêm người dùng
-function themnguoidung(){
-    console.log('hee');
+function themnguoiDung(){
+    console.log("hdjaksda");
 }
 
 /* Xóa nhân viên */
