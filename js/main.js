@@ -108,6 +108,11 @@ function taoBang(mangNhanVien = danhSachNhanVien.mangNhanVien) {
     tblBody.innerHTML = content;
 }
 
+//Thêm người dùng
+function themnguoidung(){
+    console.log('hee');
+}
+
 /* Xóa nhân viên */
 function xoa(maNV) {
     // console.log(maNV);
